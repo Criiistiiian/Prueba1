@@ -2,3 +2,4 @@
 
 print("HOLA")
 print("HOLA_2")
+nombre = input("nombre: ")
